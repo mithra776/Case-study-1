@@ -1,0 +1,60 @@
+#img1 , #img2
+{
+    height: 80px;
+}
+ .image1_result , .image2_result , .image3_result , .image4_result , .image5_result , .image6_result , .image7_result , .image8_result , .image9_result , .image10_result
+ {
+   background: grey;
+   border-radius: 20px;
+   color: white;
+   box-shadow: 5px 5px 5px grey;
+ }
+.image1_result img
+{
+    border-radius: 10px;
+}
+
+.image2_result img
+{
+  border-radius: 10px;
+}
+
+.image3_result img
+{
+   border-radius: 20px;
+}
+
+.image4_result img
+{
+  border-radius: 20px;
+}
+
+.image5_result img
+{
+  border-radius: 20px;
+}
+
+.image6_result img
+{
+  border-radius: 20px;
+}
+
+.image7_result img
+{
+  border-radius: 20px;
+}
+
+.image8_result img
+{
+  border-radius: 20px;
+}
+
+.image9_result img
+{
+  border-radius: 20px;
+}
+
+.image10_result img
+{
+  border-radius: 20px;
+}
